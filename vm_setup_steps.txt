@@ -1,0 +1,27 @@
+CVL361 Final Exam
+VM Setup Steps
+
+1. Installed Ubuntu Linux virtual machine.
+2. Verified Python installation:
+   python3 --version
+
+3. Verified pip installation:
+   pip3 --version
+
+4. Verified Git installation:
+   git --version
+
+5. Installed Jupyter Notebook:
+   pip3 install notebook
+
+6. Verified Jupyter:
+   jupyter notebook --version
+
+7. Created project directories:
+   mkdir -p screenshots
+   mkdir -p outputs
+
+8. Started Jupyter Notebook:
+   jupyter notebook
+
+9. Developed Structural_Project.ipynb and saved outputs.
